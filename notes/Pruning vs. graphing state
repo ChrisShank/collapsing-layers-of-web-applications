@@ -1,0 +1,2 @@
+Bottum-up logic makes your prune impossible states and transtitions.
+Statecharts make you graph out logic, inherently restricting the state space
